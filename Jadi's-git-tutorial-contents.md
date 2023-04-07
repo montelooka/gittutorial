@@ -1,4 +1,4 @@
-# __Jadi's GIT tutorial contents__
+# __Jadi's GIT tutorial contents_
 # List of git commands
 - git config 
     > <p dir="rtl" align="right">برای تنظیمات ابزار به کار می رود. مانند مشخصات نویسده و همچنین تنظیمات مربوط به پراکسی برای کلاینت گیت</p>
